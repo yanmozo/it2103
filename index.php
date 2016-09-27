@@ -5,4 +5,6 @@
 		echo "This is a line.";
 		$--x;
 	}
+
+	include("home.php");
 ?>
