@@ -4,7 +4,9 @@
 </head>
 
 <body>
-	<button class="btn btn-danger"> X </button>
+	<button class="btn btn-danger">
+		<i class="glyphicon glyphicon-remove"></i>
+	</button>
 </body>
 
 
